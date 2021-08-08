@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @GoldenHound or Athanasios Tsivgas
-- You can find out more about me at tsivgas.com, a github pages website
+- You can find out more about me at https://www.tsivgas.com, a github pages website
